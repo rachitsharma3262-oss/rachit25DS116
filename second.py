@@ -1,0 +1,6 @@
+a=input("enter your first no: ")
+print(int(a))
+b=input("enter your second no: ")
+print(int(b))
+print("the value of",int(a),"+",int(b),"is:",int(a)+int(b))
+print("the value of",a,"+",b,"is:",a+b)
